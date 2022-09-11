@@ -3,4 +3,4 @@ def test():
 
 
 def test_1():
-    assert 3 <= 2
+    assert 3 >= 2
