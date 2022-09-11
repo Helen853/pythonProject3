@@ -1,2 +1,2 @@
 def test():
-    assert 2>1
+    assert 3 > 1
