@@ -4,3 +4,7 @@ def test():
 
 def test_1():
     assert 3 >= 2
+
+
+def test_another():
+    assert 8<13
